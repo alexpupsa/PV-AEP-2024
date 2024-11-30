@@ -1,0 +1,17 @@
+C:\Users\apupsa\source\repos\PV-AEP-2024\PV-AEP-2024\bin\Debug\net8.0\PV-AEP-2024.exe
+C:\Users\apupsa\source\repos\PV-AEP-2024\PV-AEP-2024\bin\Debug\net8.0\PV-AEP-2024.deps.json
+C:\Users\apupsa\source\repos\PV-AEP-2024\PV-AEP-2024\bin\Debug\net8.0\PV-AEP-2024.runtimeconfig.json
+C:\Users\apupsa\source\repos\PV-AEP-2024\PV-AEP-2024\bin\Debug\net8.0\PV-AEP-2024.dll
+C:\Users\apupsa\source\repos\PV-AEP-2024\PV-AEP-2024\bin\Debug\net8.0\PV-AEP-2024.pdb
+C:\Users\apupsa\source\repos\PV-AEP-2024\PV-AEP-2024\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\apupsa\source\repos\PV-AEP-2024\PV-AEP-2024\obj\Debug\net8.0\PV-AEP-2024.csproj.AssemblyReference.cache
+C:\Users\apupsa\source\repos\PV-AEP-2024\PV-AEP-2024\obj\Debug\net8.0\PV-AEP-2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apupsa\source\repos\PV-AEP-2024\PV-AEP-2024\obj\Debug\net8.0\PV-AEP-2024.AssemblyInfoInputs.cache
+C:\Users\apupsa\source\repos\PV-AEP-2024\PV-AEP-2024\obj\Debug\net8.0\PV-AEP-2024.AssemblyInfo.cs
+C:\Users\apupsa\source\repos\PV-AEP-2024\PV-AEP-2024\obj\Debug\net8.0\PV-AEP-2024.csproj.CoreCompileInputs.cache
+C:\Users\apupsa\source\repos\PV-AEP-2024\PV-AEP-2024\obj\Debug\net8.0\PV-AEP-2.4F427B4E.Up2Date
+C:\Users\apupsa\source\repos\PV-AEP-2024\PV-AEP-2024\obj\Debug\net8.0\PV-AEP-2024.dll
+C:\Users\apupsa\source\repos\PV-AEP-2024\PV-AEP-2024\obj\Debug\net8.0\refint\PV-AEP-2024.dll
+C:\Users\apupsa\source\repos\PV-AEP-2024\PV-AEP-2024\obj\Debug\net8.0\PV-AEP-2024.pdb
+C:\Users\apupsa\source\repos\PV-AEP-2024\PV-AEP-2024\obj\Debug\net8.0\PV-AEP-2024.genruntimeconfig.cache
+C:\Users\apupsa\source\repos\PV-AEP-2024\PV-AEP-2024\obj\Debug\net8.0\ref\PV-AEP-2024.dll
